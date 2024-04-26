@@ -16,9 +16,9 @@ bun dev
 
 ## Routes
 
-- CSR: `http://localhost/pokemons-csr`
-- SSR: `http://localhost/pokemons-ssr`
-- ISR: `http://localhost/user-isr`
+- CSR: `http://localhost:3000/pokemons-csr`
+- SSR: `http://localhost:3000/pokemons-ssr`
+- ISR: `http://localhost:3000/user-isr`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
